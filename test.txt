@@ -1,0 +1,10 @@
+1. Is <conio.h> a header file?
+2. Is the slope of a vertical line is undefined?
+3. Are we the students of BCS?
+4. Is 2+2 = 5?
+5. Is Numan the most talented student in our Class ?
+6. 1, 8,27, ____ Is the next term 64?
+7. The slope of a horizental line always = 0.
+8. 2*2*2*2= 16.
+9. Is saying Hello a good habit?
+10.Are you fail in the project?
